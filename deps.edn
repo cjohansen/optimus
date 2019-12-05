@@ -1,0 +1,13 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.8.0"}
+        org.clojure/core.memoize {:mvn/version "0.5.9"}
+        org.clojure/data.codec {:mvn/version "0.1.0"}
+        org.clojure/java.data {:mvn/version "0.1.4"}
+        pathetic {:mvn/version "0.5.1"}
+        clj-time {:mvn/version "0.12.0"}
+        org.graalvm.js/js {:mvn/version "19.2.0.1"}
+        org.graalvm.js/js-scriptengine {:mvn/version "19.2.0.1"}
+        environ {:mvn/version "1.1.0"}
+        juxt/dirwatch {:mvn/version "0.2.3"}
+        potemkin {:mvn/version "0.4.3"}
+        com.cemerick/url {:mvn/version "0.1.1"}}}
