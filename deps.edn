@@ -1,4 +1,4 @@
-{:paths ["src"]
+{:paths ["src" "resources"]
  :deps {org.clojure/clojure {:mvn/version "1.8.0"}
         org.clojure/core.memoize {:mvn/version "0.5.9"}
         org.clojure/data.codec {:mvn/version "0.1.0"}
