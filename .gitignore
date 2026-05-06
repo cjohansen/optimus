@@ -3,6 +3,7 @@ node_modules
 /resources/uglify.js
 /resources/clean-css.js
 /resources/babel.js
+/resources/csso.js
 /.lein-env
 /pom.xml
 /pom.xml.asc
